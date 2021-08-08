@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/my-create-react-app-template/static/css/main.a617e044.chunk.css",
-    "main.js": "/my-create-react-app-template/static/js/main.1ff57151.chunk.js",
-    "main.js.map": "/my-create-react-app-template/static/js/main.1ff57151.chunk.js.map",
-    "runtime-main.js": "/my-create-react-app-template/static/js/runtime-main.4550b827.js",
-    "runtime-main.js.map": "/my-create-react-app-template/static/js/runtime-main.4550b827.js.map",
-    "static/js/2.90063481.chunk.js": "/my-create-react-app-template/static/js/2.90063481.chunk.js",
-    "static/js/2.90063481.chunk.js.map": "/my-create-react-app-template/static/js/2.90063481.chunk.js.map",
-    "static/js/3.aca3fe4e.chunk.js": "/my-create-react-app-template/static/js/3.aca3fe4e.chunk.js",
-    "static/js/3.aca3fe4e.chunk.js.map": "/my-create-react-app-template/static/js/3.aca3fe4e.chunk.js.map",
+    "main.css": "/my-create-react-app-template/static/css/main.f6c9513b.chunk.css",
+    "main.js": "/my-create-react-app-template/static/js/main.aebe6d2f.chunk.js",
+    "main.js.map": "/my-create-react-app-template/static/js/main.aebe6d2f.chunk.js.map",
+    "runtime-main.js": "/my-create-react-app-template/static/js/runtime-main.bcbe8b8f.js",
+    "runtime-main.js.map": "/my-create-react-app-template/static/js/runtime-main.bcbe8b8f.js.map",
+    "static/js/2.49858cad.chunk.js": "/my-create-react-app-template/static/js/2.49858cad.chunk.js",
+    "static/js/2.49858cad.chunk.js.map": "/my-create-react-app-template/static/js/2.49858cad.chunk.js.map",
     "index.html": "/my-create-react-app-template/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/my-create-react-app-template/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.90063481.chunk.js.LICENSE.txt": "/my-create-react-app-template/static/js/2.90063481.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-create-react-app-template/static/media/logo.6ce24c58.svg"
+    "static/css/main.f6c9513b.chunk.css.map": "/my-create-react-app-template/static/css/main.f6c9513b.chunk.css.map",
+    "static/js/2.49858cad.chunk.js.LICENSE.txt": "/my-create-react-app-template/static/js/2.49858cad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4550b827.js",
-    "static/js/2.90063481.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.1ff57151.chunk.js"
+    "static/js/runtime-main.bcbe8b8f.js",
+    "static/js/2.49858cad.chunk.js",
+    "static/css/main.f6c9513b.chunk.css",
+    "static/js/main.aebe6d2f.chunk.js"
   ]
 }
